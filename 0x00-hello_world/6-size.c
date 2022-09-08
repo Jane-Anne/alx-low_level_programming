@@ -1,14 +1,12 @@
-nclude <stdio.h>
-
+#include <stdio.h>
 
 /**
- * main - entry point
+ * main - Entry point
  *
- * Printf - print string input
+ * Printf print the input
  *
- * return - always 0 (success)
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	char c;
@@ -24,4 +22,5 @@ int main(void)
 	printf("Size of a float: %ld byte(s)\n", sizeof(f));
 
 	return (0);
+
 }
