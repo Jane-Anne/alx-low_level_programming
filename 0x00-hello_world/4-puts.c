@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * puts deplays/prints the string Programming is like building a multilingual puzzle
- * main int main is the main function where the program execution begins
- * return 0; terminates the main() function and returns the value 0
+ * main - Entry point
+ *
+ *  puts displays the phrase Programming is like building a multilingual puzzle
+ *
+ *   * Return: Always 0 (Success
  */
 int main(void)
 {
