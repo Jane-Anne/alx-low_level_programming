@@ -1,27 +1,14 @@
-#!/bin/bash
 #include <stdio.h>
 
-
-
 /**
- *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
-
+ * puts deplays/prints the string Programming is like building a multilingual puzzle
+ * main int main is the main function where the program execution begins
+ * return 0; terminates the main() function and returns the value 0
+ */
 int main(void)
 {
-	//string initialisation
-	char Mystr[] =  "Programming is like building a multilingual puzzle";
-	
-	puts(Mystr); //writing the string to output-stdout
+	puts("\"Programming is like building a multilingual puzzle");
 
-	    
-
-	    return 0;
+	return (0);
 
 }
