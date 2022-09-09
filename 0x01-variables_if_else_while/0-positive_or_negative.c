@@ -3,8 +3,10 @@
 #include <time.h>
 /**
  * main - Entry point, prints what random number is
+ * 
+ * if else if else return 0
  *
- * return: Always 0 (Success)
+ * return: Always zero 0 (Success)
  */
 int main(void)
 {
