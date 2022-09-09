@@ -17,6 +17,5 @@ int main(void)
 	for (love = 'a'; love <= 'z'; love++)
 		putchar(love);
 	putchar('\n');
-
 	return (0);
 }
