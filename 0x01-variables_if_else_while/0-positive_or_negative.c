@@ -2,9 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry point prints what random number is
- *
- * print whether random value is negative. zero or positive
+ * main - Entry point
  *
  * return: Always zero 0 (Success)
  */
