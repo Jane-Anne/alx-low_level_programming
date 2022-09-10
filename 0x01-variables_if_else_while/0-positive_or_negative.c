@@ -4,7 +4,7 @@
 /**
  * main - Entry point prints what random number is
  *
- * If statements else to finds whether random value is negative. zero or positive
+ * print whether random value is negative. zero or positive
  *
  * return: Always zero 0 (Success)
  */
