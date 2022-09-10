@@ -10,7 +10,7 @@
  * Return: Always 0 (Success)
  */
 
-int main(voi)
+int main(void)
 {
 	char low, e, q;
 
@@ -22,7 +22,7 @@ int main(voi)
 		if (low != e && low != q)
 			putchar(low);
 	}
-	putchar('\n);
+	putchar('\n');
 
-	return (0)
+	return (0);
 }
