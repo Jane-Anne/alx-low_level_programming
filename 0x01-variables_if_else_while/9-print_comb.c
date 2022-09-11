@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - Entry point will print all possible combinations of single-digit numbers
+ * main - Entry point
  *
  * Return: Always zero (Success)
  */
