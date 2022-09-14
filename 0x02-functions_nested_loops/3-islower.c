@@ -5,9 +5,7 @@
  *
  * @c: single letter input
  *
- * Return - always 1 if int c is lowercase, 0 if otherwise
- *
- * Return - 0 if int c is not lowercase
+ * Return: 1 if it is a lowercase letter, 0 if it is not a lowercase letter
  */
 int _islower(int c)
 {
