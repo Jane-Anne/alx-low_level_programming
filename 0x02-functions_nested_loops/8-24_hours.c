@@ -3,7 +3,7 @@
 /**
  * jack_bauer - prints the Jack's 24hrs in minutes
  *
- * @n from 00:00 to 23:59, min will loop count mins while hour loop count hours
+ * n from 00:00 to 23:59, min will loop count mins while hour loop count hours
  *
  * reset mins
  *
