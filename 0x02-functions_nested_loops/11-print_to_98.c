@@ -3,7 +3,7 @@
 /**
  *print_to_98 - prints all natural numbers from 98
  *separate with comma then space
- * 
+ *
  * @n: beging counting
  */
 void print_to_98(int n)
