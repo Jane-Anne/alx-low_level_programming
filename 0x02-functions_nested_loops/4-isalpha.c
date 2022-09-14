@@ -6,7 +6,7 @@
  * @c: single letter input
  *
  * Return: 1 if c is lower
- * 
+ *
  * Return 0 if otherwise
  */
 int _isalpha(int c)
