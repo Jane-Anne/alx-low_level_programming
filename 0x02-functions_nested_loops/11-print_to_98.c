@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  *print_to_98 - prints all natural numbers from 98
  *separate with comma then space
@@ -11,7 +12,7 @@ void print_to_98(int n)
 	{
 		while (n > 98)
 			printf("%d, ",n--);
-		print("%d\n", n);
+		printf("%d\n", n);
 	}
 	else
 	{
