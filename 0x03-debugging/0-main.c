@@ -2,7 +2,6 @@
 
 /**
  * main - will test if function positive_or_negative()
- *
  * Return: Always zero
  */
 int main(void)
