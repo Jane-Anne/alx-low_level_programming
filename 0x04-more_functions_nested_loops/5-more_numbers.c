@@ -4,7 +4,7 @@
 /**
  * more_numbers - prints 10 times the numbers, from 0 to 14
  *
- * Return: nothing to return
+ * Return: return nothing
  */
 
 void more_numbers(void)
@@ -17,9 +17,9 @@ void more_numbers(void)
 		{
 			if (ch > 9)
 			{
-				_putchar((ch / 10) + '0');
+				putchar((ch / 10) + '0');
 			}
-			_putchar((ch % 10) + '0');
+			putchar((ch % 10) + '0');
 		}
 		putchar(10);
 	}
