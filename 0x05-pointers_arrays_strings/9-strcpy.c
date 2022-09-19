@@ -18,7 +18,7 @@ char *_strcpy(char *dest, char *src)
 		*(dest + count) = *(src + count);
 		count++;
 	}
-	*(desk + count) = '\0';
+	*(dest + count) = '\0';
 
 	return (dest);
 }
